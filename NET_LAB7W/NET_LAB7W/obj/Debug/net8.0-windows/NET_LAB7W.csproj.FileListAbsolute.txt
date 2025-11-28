@@ -1,0 +1,17 @@
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\bin\Debug\net8.0-windows\NET_LAB7W.exe
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\bin\Debug\net8.0-windows\NET_LAB7W.deps.json
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\bin\Debug\net8.0-windows\NET_LAB7W.runtimeconfig.json
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\bin\Debug\net8.0-windows\NET_LAB7W.dll
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\bin\Debug\net8.0-windows\NET_LAB7W.pdb
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.Form1.resources
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.AssemblyInfo.cs
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.dll
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\refint\NET_LAB7W.dll
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.pdb
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.genruntimeconfig.cache
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\ref\NET_LAB7W.dll
+C:\Users\ПК\source\repos\NET_LAB7W\NET_LAB7W\obj\Debug\net8.0-windows\NET_LAB7W.Properties.Resources.resources
