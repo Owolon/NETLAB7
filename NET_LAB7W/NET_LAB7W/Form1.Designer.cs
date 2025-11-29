@@ -105,12 +105,12 @@
             // 
             // taskSelector
             // 
-            taskSelector.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 204);
+            taskSelector.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
             taskSelector.FormattingEnabled = true;
             taskSelector.Items.AddRange(new object[] { "1. Найти возрастaющие строки матрицы", "2. Вычисление формул a и b", "3. Обработка строки", "4. Поиск максимума/проверка числа", "5. Числа с заданной суммой цифр", "6. Площадь треугольника" });
-            taskSelector.Location = new Point(12, 12);
+            taskSelector.Location = new Point(10, 12);
             taskSelector.Name = "taskSelector";
-            taskSelector.Size = new Size(401, 40);
+            taskSelector.Size = new Size(399, 33);
             taskSelector.TabIndex = 0;
             taskSelector.Text = "Выберите задание";
             taskSelector.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
@@ -138,7 +138,7 @@
             panelTask1.Controls.Add(textBox2);
             panelTask1.Controls.Add(textBox1);
             panelTask1.Controls.Add(label1);
-            panelTask1.Location = new Point(11, 56);
+            panelTask1.Location = new Point(11, 59);
             panelTask1.Name = "panelTask1";
             panelTask1.Size = new Size(399, 516);
             panelTask1.TabIndex = 2;
@@ -255,7 +255,7 @@
             panelTask3.Controls.Add(textBox7);
             panelTask3.Controls.Add(textBox6);
             panelTask3.Controls.Add(button3);
-            panelTask3.Location = new Point(41, 58);
+            panelTask3.Location = new Point(37, 109);
             panelTask3.Name = "panelTask3";
             panelTask3.Size = new Size(343, 426);
             panelTask3.TabIndex = 4;
@@ -353,7 +353,7 @@
             panelTask2.Controls.Add(textBox3);
             panelTask2.Controls.Add(label7);
             panelTask2.Controls.Add(textBox4);
-            panelTask2.Location = new Point(5, 55);
+            panelTask2.Location = new Point(10, 110);
             panelTask2.Name = "panelTask2";
             panelTask2.Size = new Size(399, 365);
             panelTask2.TabIndex = 3;
@@ -484,7 +484,7 @@
             panelTask5.Controls.Add(textBox17);
             panelTask5.Controls.Add(textBox18);
             panelTask5.Controls.Add(button5);
-            panelTask5.Location = new Point(13, 59);
+            panelTask5.Location = new Point(12, 116);
             panelTask5.Name = "panelTask5";
             panelTask5.Size = new Size(401, 363);
             panelTask5.TabIndex = 4;
@@ -758,7 +758,7 @@
             Controls.Add(panelTask1);
             Controls.Add(taskSelector);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Лабораторная работа 7";
             Load += Form1_Load_1;
             panelTask1.ResumeLayout(false);
             panelTask1.PerformLayout();

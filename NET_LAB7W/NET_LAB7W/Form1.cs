@@ -201,7 +201,7 @@
             {
                 int a = int.Parse(textBox18.Text);
                 int b = int.Parse(textBox17.Text);
-                int sum = int.Parse(textBox20.Text);
+                int sum = int.Parse(textBox19.Text);
 
                 FindNumbersWithDigitSum(ref a, ref b, sum, out int[] result, out bool ok);
 
